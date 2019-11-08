@@ -19,27 +19,27 @@
 
 - #### 桌面操作系统
 
-| 操作系统 | 平台 | 下载地址                        | 作者                  |
-| -------- | ---- | ------------------------------- | --------------------- |
-| Windows  | PC   | https://github.com/zlgopen/awtk | [ZLG](https://zlg.cn) |
-| Linux    | PC   | https://github.com/zlgopen/awtk | [ZLG](https://zlg.cn) |
-| macOS    | Mac  | https://github.com/zlgopen/awtk | [ZLG](https://zlg.cn) |
+| 操作系统 | 平台 | 下载地址                        | 作者                     |
+| -------- | ---- | ------------------------------- | ------------------------ |
+| Windows  | PC   | https://github.com/zlgopen/awtk | [ZLG](http://www.zlg.cn) |
+| Linux    | PC   | https://github.com/zlgopen/awtk | [ZLG](http://www.zlg.cn) |
+| macOS    | Mac  | https://github.com/zlgopen/awtk | [ZLG](http://www.zlg.cn) |
 
 - #### 嵌入式操作系统
 
-| 操作系统     | 平台                                                    | 下载地址                                              | 作者                  |
-| ------------ | ------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
-| AWorks       | RT1052<br/>i.MX6 Cortex-A7<br/>...                      | https://github.com/zlgopen/awtk-aworks-rt1052         | [ZLG](https://zlg.cn) |
-| 嵌入式 Linux | i.MX283<br/>i.MX6 Cortex-A7<br/>i.MX6 Cortex-A9<br/>... | https://github.com/zlgopen/awtk-linux-fb              | [ZLG](https://zlg.cn) |
-| TencentOS    | STM32F103                                               | https://github.com/zlgopen/awtk-stm32f103ze-tencentos | [ZLG](https://zlg.cn) |
-| SylixOS      | ARM920T                                                 | https://github.com/zlgopen/awtk-sylixos               | [ZLG](https://zlg.cn) |
+| 操作系统     | 平台                                                    | 下载地址                                              | 作者                     |
+| ------------ | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------ |
+| AWorks       | RT1052<br/>i.MX6 Cortex-A7<br/>...                      | https://github.com/zlgopen/awtk-aworks-rt1052         | [ZLG](http://www.zlg.cn) |
+| 嵌入式 Linux | i.MX283<br/>i.MX6 Cortex-A7<br/>i.MX6 Cortex-A9<br/>... | https://github.com/zlgopen/awtk-linux-fb              | [ZLG](http://www.zlg.cn) |
+| TencentOS    | STM32F103                                               | https://github.com/zlgopen/awtk-stm32f103ze-tencentos | [ZLG](http://www.zlg.cn) |
+| SylixOS      | ARM920T                                                 | https://github.com/zlgopen/awtk-sylixos               | [ZLG](http://www.zlg.cn) |
 
 - #### 其他系统平台
 
-| 操作系统 | 平台     | 下载地址                                | 作者                  |
-| -------- | -------- | --------------------------------------- | --------------------- |
-| Web      | 浏览器   | https://github.com/zlgopen/awtk-web     | [ZLG](https://zlg.cn) |
-| Android  | 智能手机 | https://github.com/zlgopen/awtk-android | [ZLG](https://zlg.cn) |
+| 操作系统 | 平台     | 下载地址                                | 作者                     |
+| -------- | -------- | --------------------------------------- | ------------------------ |
+| Web      | 浏览器   | https://github.com/zlgopen/awtk-web     | [ZLG](http://www.zlg.cn) |
+| Android  | 智能手机 | https://github.com/zlgopen/awtk-android | [ZLG](http://www.zlg.cn) |
 
 
 
@@ -52,7 +52,7 @@
 
 | 芯片    | 操作系统            | 下载地址   | 作者                               |
 | ------- | ------------------- | ---------- | ---------------------------------- |
-| AK376xD | RT-Thread<br/>Linux | 请联系作者 | [Anyka](https://anyka.com)【原厂】 |
+| AK376xD | RT-Thread<br/>Linux | 请联系作者 | [Anyka](http://www.anyka.com)【原厂】 |
 
 - #### Espressif
 
@@ -64,18 +64,18 @@
 
 - #### Ingenic
 
-| 芯片  | 操作系统 | 下载地址                                     | 作者                                      |
-| ----- | -------- | -------------------------------------------- | ----------------------------------------- |
-| M200  | Linux    | https://github.com/zlgopen/awtk-port-ingenic | [Ingenic](https://ingenic.com.cn)【原厂】 |
-| X1000 | Linux    | https://github.com/zlgopen/awtk-port-ingenic | [Ingenic](https://ingenic.com.cn)【原厂】 |
-| X1830 | Linux    | https://github.com/zlgopen/awtk-port-ingenic | [Ingenic](https://ingenic.com.cn)【原厂】 |
+| 芯片  | 操作系统 | 下载地址                                     | 作者                                         |
+| ----- | -------- | -------------------------------------------- | -------------------------------------------- |
+| M200  | Linux    | https://github.com/zlgopen/awtk-port-ingenic | [Ingenic](http://www.ingenic.com.cn)【原厂】 |
+| X1000 | Linux    | https://github.com/zlgopen/awtk-port-ingenic | [Ingenic](http://www.ingenic.com.cn)【原厂】 |
+| X1830 | Linux    | https://github.com/zlgopen/awtk-port-ingenic | [Ingenic](http://www.ingenic.com.cn)【原厂】 |
 
 - #### ISSI
 - #### MindMotion
 
-| 芯片         | 操作系统 | 下载地址   | 作者                                            |
-| ------------ | -------- | ---------- | ----------------------------------------------- |
-| MM32F103RET6 | 无       | 请联系作者 | [MindMotion](https://mindmotion.com.cn)【原厂】 |
+| 芯片         | 操作系统 | 下载地址   | 作者                                               |
+| ------------ | -------- | ---------- | -------------------------------------------------- |
+| MM32F103RET6 | 无       | 请联系作者 | [MindMotion](http://www.mindmotion.com.cn)【原厂】 |
 
 - #### Nordic
 
@@ -87,25 +87,25 @@
 
 | 芯片            | 操作系统 | 下载地址                                           | 作者                                  |
 | --------------- | -------- | -------------------------------------------------- | ------------------------------------- |
-| RT1052          | AWorks   | https://github.com/zlgopen/awtk-aworks-rt1052      | [ZLG](https://zlg.cn)                 |
-| RT1052          | 无       | https://github.com/zlgopen/awtk-easyarm-rt1052-raw | [ZLG](https://zlg.cn)                 |
+| RT1052          | AWorks   | https://github.com/zlgopen/awtk-aworks-rt1052      | [ZLG](http://www.zlg.cn)              |
+| RT1052          | 无       | https://github.com/zlgopen/awtk-easyarm-rt1052-raw | [ZLG](http://www.zlg.cn)              |
 | RT1052          | 无       | https://github.com/chinachuli/awtk-imxrt1052-raw   | [褚立](https://github.com/chinachuli) |
-| RT1020          | AWorks   | 请联系作者                                         | [ZLG](https://zlg.cn)                 |
-| i.MX6 Cortex-A7 | AWorks   | 请联系作者                                         | [ZLG](https://zlg.cn)                 |
-| i.MX6 Cortex-A7 | Linux    | https://github.com/zlgopen/awtk-linux-fb           | [ZLG](https://zlg.cn)                 |
-| i.MX6 Cortex-A9 | Linux    | https://github.com/zlgopen/awtk-linux-fb           | [ZLG](https://zlg.cn)                 |
-| i.MX283         | Linux    | https://github.com/zlgopen/awtk-linux-fb           | [ZLG](https://zlg.cn)                 |
-| LPC54608        | 无       | 请联系作者                                         | [ZLG](https://zlg.cn)                 |
-| LPC54018        | 无       | 请联系作者                                         | [ZLG](https://zlg.cn)                 |
+| RT1020          | AWorks   | 请联系作者                                         | [ZLG](http://www.zlg.cn)              |
+| i.MX6 Cortex-A7 | AWorks   | 请联系作者                                         | [ZLG](http://www.zlg.cn)              |
+| i.MX6 Cortex-A7 | Linux    | https://github.com/zlgopen/awtk-linux-fb           | [ZLG](http://www.zlg.cn)              |
+| i.MX6 Cortex-A9 | Linux    | https://github.com/zlgopen/awtk-linux-fb           | [ZLG](http://www.zlg.cn)              |
+| i.MX283         | Linux    | https://github.com/zlgopen/awtk-linux-fb           | [ZLG](http://www.zlg.cn)              |
+| LPC54608        | 无       | 请联系作者                                         | [ZLG](http://www.zlg.cn)              |
+| LPC54018        | 无       | 请联系作者                                         | [ZLG](http://www.zlg.cn)              |
 
 - #### ST
 
-| 芯片      | 操作系统  | 下载地址                                              | 作者                  |
-| --------- | --------- | ----------------------------------------------------- | --------------------- |
-| STM32F103 | 无        | https://github.com/zlgopen/awtk-stm32f103ze-raw       | [ZLG](https://zlg.cn) |
-| STM32F103 | TencentOS | https://github.com/zlgopen/awtk-stm32f103ze-tencentos | [ZLG](https://zlg.cn) |
-| STM32F429 | 无        | https://github.com/zlgopen/awtk-stm32f429igtx-raw     | [ZLG](https://zlg.cn) |
-| STM32F767 | 无        | https://github.com/zlgopen/awtk-stm32f767igtx-raw     | [ZLG](https://zlg.cn) |
+| 芯片      | 操作系统  | 下载地址                                              | 作者                     |
+| --------- | --------- | ----------------------------------------------------- | ------------------------ |
+| STM32F103 | 无        | https://github.com/zlgopen/awtk-stm32f103ze-raw       | [ZLG](http://www.zlg.cn) |
+| STM32F103 | TencentOS | https://github.com/zlgopen/awtk-stm32f103ze-tencentos | [ZLG](http://www.zlg.cn) |
+| STM32F429 | 无        | https://github.com/zlgopen/awtk-stm32f429igtx-raw     | [ZLG](http://www.zlg.cn) |
+| STM32F767 | 无        | https://github.com/zlgopen/awtk-stm32f767igtx-raw     | [ZLG](http://www.zlg.cn) |
 
 > 以上信息如果有误，或需要补充的，请联系 chentan@zlg.cn 修正
 >
@@ -123,11 +123,11 @@
 
 - #### 图表控件
 
-| 控件名称 | 下载地址                                 | 作者                  |
-| -------- | ---------------------------------------- | --------------------- |
-| 饼图     | https://github.com/zlgopen/awtk-examples | [ZLG](https://zlg.cn) |
-| 柱状图   | https://github.com/zlgopen/awtk-examples | [ZLG](https://zlg.cn) |
-| 曲线图   | https://github.com/zlgopen/awtk-examples | [ZLG](https://zlg.cn) |
+| 控件名称 | 下载地址                                 | 作者                     |
+| -------- | ---------------------------------------- | ------------------------ |
+| 饼图     | https://github.com/zlgopen/awtk-examples | [ZLG](http://www.zlg.cn) |
+| 柱状图   | https://github.com/zlgopen/awtk-examples | [ZLG](http://www.zlg.cn) |
+| 曲线图   | https://github.com/zlgopen/awtk-examples | [ZLG](http://www.zlg.cn) |
 
 
 
