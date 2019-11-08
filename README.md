@@ -244,6 +244,8 @@ pip install Pillow
 
 * [任务完成情况](TODO.md)
 
+* [入门指南与手册](https://github.com/zlgopen/awtk-docs)
+
 ## 十、生态共建计划
 
-* [生态共建计划](docs/AWTK_ecology.md)
+* [生态共建计划](docs/awtk_ecology.md)
