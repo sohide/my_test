@@ -10,16 +10,16 @@
 
 - 桌面操作系统
 
-| 操作系统 | 平台 | 下载地址                    | 作者              |
-| -------- | ---- | --------------------------- | ----------------- |
+| 操作系统 | 平台 | 下载地址                    | 作者                     |
+| -------- | ---- | --------------------------- | ------------------------ |
 | Windows  | PC   | www.github.com/zlgopen/awtk | [ZLG](http://www.zlg.cn) |
 | Linux    | PC   | www.github.com/zlgopen/awtk | [ZLG](http://www.zlg.cn) |
 | macOS    | Mac  | www.github.com/zlgopen/awtk | [ZLG](http://www.zlg.cn) |
 
 - 嵌入式操作系统
 
-| 操作系统     | 平台                                                    | 下载地址                                          | 作者              |
-| ------------ | ------------------------------------------------------- | ------------------------------------------------- | ----------------- |
+| 操作系统     | 平台                                                    | 下载地址                                          | 作者                     |
+| ------------ | ------------------------------------------------------- | ------------------------------------------------- | ------------------------ |
 | AWorks       | RT1052<br/>i.MX6 Cortex-A7<br/>...                      | www.github.com/zlgopen/awtk-aworks-rt1052         | [ZLG](http://www.zlg.cn) |
 | 嵌入式 Linux | i.MX283<br/>i.MX6 Cortex-A7<br/>i.MX6 Cortex-A9<br/>... | www.github.com/zlgopen/awtk-linux-fb              | [ZLG](http://www.zlg.cn) |
 | TencentOS    | STM32F103                                               | www.github.com/zlgopen/awtk-stm32f103ze-tencentos | [ZLG](http://www.zlg.cn) |
@@ -27,8 +27,8 @@
 
 - 其他系统平台
 
-| 操作系统 | 平台     | 下载地址                            | 作者              |
-| -------- | -------- | ----------------------------------- | ----------------- |
+| 操作系统 | 平台     | 下载地址                            | 作者                     |
+| -------- | -------- | ----------------------------------- | ------------------------ |
 | Web      | 浏览器   | www.github.com/zlgopen/awtk-web     | [ZLG](http://www.zlg.cn) |
 | Android  | 智能手机 | www.github.com/zlgopen/awtk-android | [ZLG](http://www.zlg.cn) |
 
@@ -41,8 +41,8 @@
 
 - Anyka
 
-| 芯片    | 操作系统            | 下载地址   | 作者                           |
-| ------- | ------------------- | ---------- | ------------------------------ |
+| 芯片    | 操作系统            | 下载地址   | 作者                                  |
+| ------- | ------------------- | ---------- | ------------------------------------- |
 | AK376xD | RT-Thread<br/>Linux | 请联系作者 | [Anyka](http://www.anyka.com)【原厂】 |
 
 - Espressif
@@ -55,8 +55,8 @@
 
 - Ingenic
 
-| 芯片  | 操作系统 | 下载地址                                 | 作者                                  |
-| ----- | -------- | ---------------------------------------- | ------------------------------------- |
+| 芯片  | 操作系统 | 下载地址                                 | 作者                                         |
+| ----- | -------- | ---------------------------------------- | -------------------------------------------- |
 | M200  | Linux    | www.github.com/zlgopen/awtk-port-ingenic | [Ingenic](http://www.ingenic.com.cn)【原厂】 |
 | X1000 | Linux    | www.github.com/zlgopen/awtk-port-ingenic | [Ingenic](http://www.ingenic.com.cn)【原厂】 |
 | X1830 | Linux    | www.github.com/zlgopen/awtk-port-ingenic | [Ingenic](http://www.ingenic.com.cn)【原厂】 |
@@ -64,20 +64,20 @@
 - ISSI
 - MindMotion
 
-| 芯片         | 操作系统 | 下载地址   | 作者                                        |
-| ------------ | -------- | ---------- | ------------------------------------------- |
-| MM32F103RET6 | 无       | 请联系作者 | [MindMotion](www.mindmotion.com.cn)【原厂】 |
+| 芯片         | 操作系统 | 下载地址   | 作者                                               |
+| ------------ | -------- | ---------- | -------------------------------------------------- |
+| MM32F103RET6 | 无       | 请联系作者 | [MindMotion](http://www.mindmotion.com.cn)【原厂】 |
 
 - Nordic
 
-| 芯片     | 操作系统 | 下载地址                                                | 作者                                          |
-| -------- | -------- | ------------------------------------------------------- | --------------------------------------------- |
-| NRF52840 | FreeRTOS | www.github.com/jimmywong2003/nrf52840-FreeRTOS-AWTK-GUI | [jimmywong2003](http://www.github.com/jimmywong2003) |
+| 芯片     | 操作系统 | 下载地址   | 作者                                                 |
+| -------- | -------- | ---------- | ---------------------------------------------------- |
+| NRF52840 | FreeRTOS | 请联系作者 | [jimmywong2003](http://www.github.com/jimmywong2003) |
 
 - NXP
 
-| 芯片            | 操作系统 | 下载地址                                       | 作者                              |
-| --------------- | -------- | ---------------------------------------------- | --------------------------------- |
+| 芯片            | 操作系统 | 下载地址                                       | 作者                                     |
+| --------------- | -------- | ---------------------------------------------- | ---------------------------------------- |
 | RT1052          | AWorks   | www.github.com/zlgopen/awtk-aworks-rt1052      | [ZLG](http://www.zlg.cn)                 |
 | RT1052          | 无       | www.github.com/zlgopen/awtk-easyarm-rt1052-raw | [ZLG](http://www.zlg.cn)                 |
 | RT1052          | 无       | www.github.com/chinachuli/awtk-imxrt1052-raw   | [褚立](http://www.github.com/chinachuli) |
@@ -91,8 +91,8 @@
 
 - ST
 
-| 芯片      | 操作系统  | 下载地址                                          | 作者              |
-| --------- | --------- | ------------------------------------------------- | ----------------- |
+| 芯片      | 操作系统  | 下载地址                                          | 作者                     |
+| --------- | --------- | ------------------------------------------------- | ------------------------ |
 | STM32F103 | 无        | www.github.com/zlgopen/awtk-stm32f103ze-raw       | [ZLG](http://www.zlg.cn) |
 | STM32F103 | TencentOS | www.github.com/zlgopen/awtk-stm32f103ze-tencentos | [ZLG](http://www.zlg.cn) |
 | STM32F429 | 无        | www.github.com/zlgopen/awtk-stm32f429igtx-raw     | [ZLG](http://www.zlg.cn) |
