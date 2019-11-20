@@ -37,11 +37,11 @@
 * 支持开发 MacOS 应用程序。
 * 支持开发 Windows 应用程序。
 * 支持开发 Web APP。
+* 支持开发 Android 应用程序。
+* 支持开发 iOS 应用程序。
 * 支持开发微信小程序。
 * 支持开发支付宝小程序。
 * 支持开发百度小程序。
-* 支持开发 Android 应用程序。
-* 支持开发 iOS 应用程序。
 * 支持开发 2D 小游戏。
 
 ## 三、主要特色
@@ -126,6 +126,7 @@
 * Lua
 * Javascript on jerryscript
 * Javascript on nodejs
+* Javascript on quickjs
 
 ### 8. 国际化
 
@@ -249,3 +250,6 @@ pip install Pillow
 ## 十、生态共建计划
 
 * [生态共建计划](docs/awtk_ecology.md)
+* 深度合作伙伴
+
+![](docs/images/logo_nxp.svg)  ![](docs/images/logo_anyka.jpg)  ![](docs/images/logo_ingenic.jpg)  ![](docs/images/logo_mindmotion.png)
